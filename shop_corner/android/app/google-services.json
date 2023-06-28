@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "911914400261",
+    "project_id": "shop-corner-c83ba",
+    "storage_bucket": "shop-corner-c83ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911914400261:android:308fc407b1e0ff460c7a6c",
+        "android_client_info": {
+          "package_name": "com.example.shop_corner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911914400261-0g2kmtthm2uik77r3ccdsl8uohka250n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ZudlhEcmeKjREpZdnvE7pF6-rIwyhFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911914400261-0g2kmtthm2uik77r3ccdsl8uohka250n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "911914400261-el2itba8l4jum71q99bjdvtk1kaibqom.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopcorner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

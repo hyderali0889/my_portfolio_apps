@@ -1,0 +1,62 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:57095473126899600",
+      "lastPropertyId": "7:1607957145537559661",
+      "name": "User",
+      "properties": [
+        {
+          "id": "1:4387022688211906191",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:1603003842089800618",
+          "name": "name",
+          "type": 9
+        },
+        {
+          "id": "3:9081226762942562278",
+          "name": "gamesWonvsComputer",
+          "type": 6
+        },
+        {
+          "id": "4:1582567236435757397",
+          "name": "gamesWonvsPlayer",
+          "type": 6
+        },
+        {
+          "id": "5:2795214194151864283",
+          "name": "gamesPlayedvsComputer",
+          "type": 6
+        },
+        {
+          "id": "6:4653382630298753388",
+          "name": "gamesPlayedvsPlayer",
+          "type": 6
+        },
+        {
+          "id": "7:1607957145537559661",
+          "name": "consectiveWins",
+          "type": 6
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "1:57095473126899600",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [],
+  "retiredRelationUids": [],
+  "version": 1
+}

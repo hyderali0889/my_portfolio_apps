@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221104959110",
+    "project_id": "bolt-app-a5420",
+    "storage_bucket": "bolt-app-a5420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221104959110:android:a61b2bdab95907b4b8eb07",
+        "android_client_info": {
+          "package_name": "com.hyderali.bolt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221104959110-o6elf2as8nko6qq8hgetchftjlp78tue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4XYZyhcIO_qG_aeaqGFvr2k8Ib706tNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221104959110-o6elf2as8nko6qq8hgetchftjlp78tue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
